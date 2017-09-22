@@ -1,11 +1,14 @@
 # Design
+Planning
+
+-----------------------------------------------------
 [UML](/design/UML) formal design documents
 
 [art](/design/art) artwork not required for build
 
 [sandbox](/design/sandbox) code samples
 
-
+------------------------------------------------------
 ### Directory Structure ###
 [Root](/)
   * [bin](/bin) binary executables
