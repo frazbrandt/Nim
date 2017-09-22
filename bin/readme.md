@@ -1,5 +1,5 @@
-# bin
-Intermediate binaries
+# Bin
+Binaries
 
 -----------------------------------------------------
 
