@@ -1,6 +1,8 @@
 # Art
 Artwork not required for build
 
+-----------------------------------------------------------
+
 ### Directory Structure ###
 [Root](/)
   * [bin](/bin) binary executables
